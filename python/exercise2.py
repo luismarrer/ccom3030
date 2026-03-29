@@ -11,7 +11,7 @@ print(intro)
 print("-" * len(intro), end="\n\n")
 
 # Pedirle al usuario un dividendo y un divisor
-# Asumir que el divisor es mayor que cero
+# Asumir que el divisor es un entero mayor que cero
 
 dividendo = int(input("Escriba un dividendo: "))
 divisor = int(input("Escriba un divisor: "))
