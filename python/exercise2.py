@@ -2,7 +2,7 @@
 # 801-18-7010
 # CCOM3030-001
 
-# Calcular ecuación dividendo = divisor * cociente + residuo
+# Calcular ecuación `dividendo = divisor * cociente + residuo`
 
 intro = "Programa para calcular la ecuación: `dividendo = divisor * cociente + residuo`"
 
